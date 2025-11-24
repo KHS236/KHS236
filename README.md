@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="300px" height="300px">
+</div>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=test&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test&layout=compact)
+
+
 <!--
 **KHS236/KHS236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
