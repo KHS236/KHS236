@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="50px" height="50px">
+  <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="50px" height="50px" margin-top="50px"">
 </div>
 
 
