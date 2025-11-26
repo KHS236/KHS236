@@ -1,5 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="HELLO,+WELCOME+TO+↓↓↓")](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=""THIS+IS+HONGSEOP's+GIT+HUB+PAGE")](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=3000&center=true&vCenter=true&multiline=true&width=800&height=58&lines=%22HELLO%2C+WELCOME+TO+%E2%86%93%E2%86%93%E2%86%93%E2%86%93%22" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=3000&center=true&vCenter=true&multiline=true&width=1000&height=58&lines=%22THIS+IS+HONGSEOP's+GIT+HUB%22" alt="Typing SVG" />
+  </a>
+</div>
+
+----
 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="300px" height="300px">
