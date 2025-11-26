@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -13,8 +13,6 @@ on:
     branches:
     - main
     
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,8 +24,8 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: KHS236
-          outputs:
-            dist/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # 수정 완료: outputs 값을 쉼표와 공백으로 깔끔하게 구분된 한 줄 문자열로 변경
+          outputs: dist/github-contribution-grid-snake.svg, dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
