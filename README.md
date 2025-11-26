@@ -6,8 +6,6 @@
 
 ![snake gif](https://github.com/KHS236/KHS236/blob/output/github-contribution-grid-snake.svg)
 
-![KHS236 Snake](https://raw.githubusercontent.com/KHS236/KHS236/output/dist/github-contribution-grid-snake.svg)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHS236&show_icons=true&theme=radical)
 
