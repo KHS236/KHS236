@@ -10,10 +10,10 @@
 ---
 ![snake gif](https://github.com/KHS236/KHS236/blob/output/github-contribution-grid-snake.svg)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHS236&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHS236&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHS236&layout=compact)
+
 
 
 <!--
