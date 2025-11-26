@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="HELLO,+WELCOME+TO+↓↓↓")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=""THIS+IS+HONGSEOP's+GIT+HUB+PAGE")](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="300px" height="300px">
