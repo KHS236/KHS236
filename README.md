@@ -66,7 +66,7 @@ Goal 3. Contemplating efficient interfaces with a focus on User Experience
   <a href="mailto:fdsa5104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://[노션링크주소](https://www.notion.so/UI-243a86a808f880c0a369eac133279f28?source=copy_link).notion.site">
+  <a href="https://www.notion.so/UI-243a86a808f880c0a369eac133279f28?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <br/>
