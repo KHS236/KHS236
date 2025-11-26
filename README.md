@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=58&lines=%22THIS+IS+HONGSEOP's+GIT+HUB...%22" alt="Typing SVG" />
   </a>
 </div>
-
+<div style="height:50px;">&nbsp;</div> 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="50px" height="70px"">
 </div>
