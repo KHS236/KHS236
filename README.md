@@ -1,21 +1,22 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=58&lines=%22HELLO%2C+WELCOME+TO+MY+PAGE+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=4000&center=true&vCenter=true&multiline=true&width=800&height=58&lines=%22HELLO%2C+WELCOME+TO+MY+PAGE+!" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=58&lines=%22THIS+IS+HONGSEOP's+GIT+HUB...%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=4000&center=true&vCenter=true&multiline=true&width=1000&height=58&lines=%22THIS+IS+HONGSEOP's+GIT+HUB...%22" alt="Typing SVG" />
   </a>
 </div>
 <div style="height:50px;">&nbsp;</div> 
 <div align="center">
-  <img src="msrm5.gif" width="50px" height="70px"">
+  <img src="flim.png" width="50px" height="70px"">
+</div>
+<div align="center">
+  <h3>게임보다 개발이 재밌어진 개발자의 깃허브╰(*°▽°*)╯</h3>
 </div>
 
-### 게임보다 개발이 재밌어진 개발자입니다.
----
-# COMMIT SNAKE
+## COMMIT SNAKE
 
 ![snake gif](https://github.com/KHS236/KHS236/blob/output/github-contribution-grid-snake.svg)
 
