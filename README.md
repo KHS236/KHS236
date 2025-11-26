@@ -4,6 +4,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="300px" height="300px">
 </div>
 
+![KHS236 Snake](https://raw.githubusercontent.com/KHS236/KHS236/output/dist/github-contribution-grid-snake.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=test&show_icons=true&theme=radical)
 
