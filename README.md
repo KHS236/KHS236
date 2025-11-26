@@ -13,10 +13,10 @@
   <img src="msrm5.gif" width="50px" height="70px"">
 </div>
 
+### 게임보다 개발이 재밌어진 개발자입니다.
+---
+# COMMIT SNAKE
 
----
-#### COMMITS
----
 ![snake gif](https://github.com/KHS236/KHS236/blob/output/github-contribution-grid-snake.svg)
 
 ---
