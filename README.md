@@ -10,7 +10,7 @@
 </div>
 <div style="height:50px;">&nbsp;</div> 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="50px" height="70px"">
+  <img src="ezgif.com-animated-gif-maker.gif" width="50px" height="70px"">
 </div>
 
 
