@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Thymleaf-005F0F?style=for-the-badge&logo=Thymleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
