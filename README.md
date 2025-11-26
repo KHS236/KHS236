@@ -13,7 +13,7 @@
   <img src="fim.png" width="50px" height="70px"">
 </div>
 <div align="center">
-  <h3>게임보다 개발이 재밌어진 개발자의 깃허브╰(*°▽°*)╯</h3>
+  <h3>게임보다 개발이 재밌어진 사람의 깃허브╰(*°▽°*)╯</h3>
 </div>
 
 ## MY STACKS
