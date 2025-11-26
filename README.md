@@ -63,7 +63,7 @@ Goal 3. Contemplating efficient interfaces with a focus on User Experience
   <hr width="40%" style="border:1px solid #0D47A1">
   <h3>📫 Contact</h3>
   
-  <a href="mailto:fdsa5104@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fdsa5104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/UI-243a86a808f880c0a369eac133279f28?source=copy_link">
