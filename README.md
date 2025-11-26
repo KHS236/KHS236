@@ -4,6 +4,10 @@
   <img src="https://cdn-icons-png.flaticon.com/512/8005/8005942.png" width="300px" height="300px">
 </div>
 
+
+---
+#### COMMITS
+---
 ![snake gif](https://github.com/KHS236/KHS236/blob/output/github-contribution-grid-snake.svg)
 
 
