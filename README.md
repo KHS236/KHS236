@@ -6,9 +6,9 @@
 
 ![KHS236 Snake](https://raw.githubusercontent.com/KHS236/KHS236/output/dist/github-contribution-grid-snake.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=test&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHS236&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHS236&layout=compact)
 
 
 <!--
