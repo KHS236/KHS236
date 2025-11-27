@@ -32,7 +32,7 @@ Developer with tenacity to dig deep into problems
 문제 해결을 위해서라면 끝까지 파고드는 집요함을 가진 개발자
 
 ⚔️ Skill
-HTML, CSS, JavaScript, React, Spring Boot
+HTML, CSS, JavaScript, Spring Boot
 
 🎯 Goal
 Goal 1. Aiming for 1 Day 1 Commit !
