@@ -23,6 +23,7 @@
     <pre align="center">
 <code>
 "Life is a game, and I am a Developer."
+<br/>
 
 👤 Name
 Hongseop / 홍섭
