@@ -70,8 +70,12 @@ Goal 3. Contemplating efficient interfaces with a focus on User Experience
   <a href="https://www.notion.so/UI-243a86a808f880c0a369eac133279f28?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
+  <br>
   <a href="https://bzez.shop" target="_blank">
     <img src="https://img.shields.io/badge/Project-bzez.shop-0D47A1?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href=https://khs236.github.io target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-khs236.github.io-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <br/>
   <hr width="40%" style="border:1px solid #0D47A1">
